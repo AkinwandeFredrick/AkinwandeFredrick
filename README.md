@@ -34,6 +34,9 @@
   <a href="https://twitter.com/fredrickakinwa1" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
+  <a href="https://wa.me/YOUR_PHONE_NUMBER?text=Hi%20Fredrick%2C%20I'd%20like%20to%20connect%20about%20cybersecurity!" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
 </p>
 
 ---
@@ -88,17 +91,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AkinwandeFredrick&icon=0&color=0" alt="Visitor Count"/>
-</p>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[!](https://wa.me/2349139069575)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/5r3do/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FredrickAkinwa1)
-
-
-<!---
-AkinwandeFredrick/AkinwandeFredrick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
