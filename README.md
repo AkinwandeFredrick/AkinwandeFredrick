@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there! 👋 I'm Fredrick Akinwande</h1>
   
-  **Cybersecurity Engineer | Network Architect | Cloud & AI Security Enthusiast**  
+  **Cybersecurity Engineer | Network Architect | Cloud Security Enthusiast**  
   Building secure, scalable systems one firewall at a time.
 
   [![GitHub followers](https://img.shields.io/github/followers/AkinwandeFredrick?style=social)](https://github.com/AkinwandeFredrick)
@@ -77,7 +77,7 @@
 </p>
 
 </div>
-# ✍️ Random Dev Quote
+ ✍️ Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </div>
