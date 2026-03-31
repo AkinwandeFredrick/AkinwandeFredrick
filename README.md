@@ -64,15 +64,17 @@
 
 <div align="center">
 
-  <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AkinwandeFredrick&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkinwandeFredrick&theme=vue-dark&hide_border=true&include_all_commits=true&show_icons=true&count_private=false" alt="GitHub Stats" />
 
-  <!-- Streak (more reliable alternative) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkinwandeFredrick&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkinwandeFredrick&theme=vue-dark&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkinwandeFredrick&theme=vue-dark&hide_border=true&layout=compact&hide=jupyter%20notebook" alt="Top Languages" />
 
+</div>
+
+<p align="center">
+  <em>Note: Stats only reflect public repositories. My private work (CyberSecurity & Networking projects) is not shown here.</em>
+</p>
 </div>
 ### ✍️ Random Dev Quote
 <div align="center">
