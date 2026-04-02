@@ -73,15 +73,8 @@
 </div>
 
 <p align="center">
-  <em>Note: Stats only reflect public repositories. My private work (CyberSecurity & Networking projects) is not shown here.</em>
+  <em>Note: These stats only reflect public repositories. My private work (Cyber Security & Networking projects) is not shown here.</em>
 </p>
 
-</div>
- ✍️ Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</div>
-
----
 
 *Last updated: March 2026*
