@@ -75,8 +75,4 @@
 
 </div>
 
-<p align="center">
-  <em>Note: These stats only reflect public repositories. My private work (Cyber Security & Networking projects) is not shown here.</em>
-</p>
-
 *Last updated: March 2026*
