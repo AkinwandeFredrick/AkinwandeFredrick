@@ -15,7 +15,8 @@
 
   <br><br>
 
-  <a href="https://github.com/AkinwandeFredrick">
+  <a href="[https://github.com/AkinwandeFredrick](https://github.com/AkinwandeFredrick?tab=repositories)">
+  <a href="">
     <img src="https://img.shields.io/badge/Explore%20My%20Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
   </a>
 
