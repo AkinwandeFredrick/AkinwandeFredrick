@@ -64,17 +64,19 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AkinwandeFredrick&theme=vue-dark&hide_border=true&include_all_commits=true&show_icons=true&count_private=false" alt="GitHub Stats" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AkinwandeFredrick&theme=vue-dark&hide_border=true&include_all_commits=true&show_icons=true&count_private=false" alt="GitHub Stats" />
 
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkinwandeFredrick&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkinwandeFredrick&theme=vue-dark&hide_border=true&layout=compact&hide=jupyter%20notebook" alt="Top Languages" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AkinwandeFredrick&theme=vue-dark&hide_border=true&layout=compact&hide=jupyter%20notebook" alt="Top Languages" />
 
 </div>
 
 <p align="center">
   <em>Note: These stats only reflect public repositories. My private work (Cyber Security & Networking projects) is not shown here.</em>
 </p>
-
 
 *Last updated: March 2026*
