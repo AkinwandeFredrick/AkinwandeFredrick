@@ -27,7 +27,7 @@
 
 - **Currently building**: Next-generation Zero-Trust architectures, Cloud-Native security platforms, and automated threat detection systems.
 - **Open to collaborate on**: Open-source security tools, red/blue team projects, network automation, and cutting-edge cybersecurity research.
-- **All projects**: [github.com/AkinwandeFredrick](https://github.com/AkinwandeFredrick)
+- **All projects**: [github.com/AkinwandeFredrick](https://github.com/AkinwandeFredrick?tab=repositories)
 - **Reach me**: akinwandefredrick548@gmail.com
 
 ### ✨ Let's Connect & Create Together
