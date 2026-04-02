@@ -1,5 +1,4 @@
 <div align="center">
-
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,5,10,15&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&desc=Fredrick%20Akinwande&fontSize=45&fontColor=ffffff&animation=twinkling&descSize=22" alt="Header" />
 
   <h3>
@@ -15,11 +14,9 @@
 
   <br><br>
 
-  <a href="(https://github.com/AkinwandeFredrick?tab=repositories)">
-  <a href="">
+  <a href="https://github.com/AkinwandeFredrick?tab=repositories">
     <img src="https://img.shields.io/badge/Explore%20My%20Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
   </a>
-
 </div>
 
 ---
@@ -91,6 +88,11 @@
 
 ---
 
-**Pro tip**: This design uses vibrant gradient colors (coral, teal, sky blue, orange) with the popular **Tokyonight** theme for the stats cards — it looks stunning on both light and dark GitHub backgrounds.
+**✅ Fixed!**  
+- Corrected the broken/malformed `<a>` tags for the "Explore My Projects" button  
+- Cleaned up the structure for perfect GitHub rendering  
+- Everything else (colors, stats, layout) kept intact  
 
-Would you like me to make a **dark neon cyberpunk** version or a **pastel soft aesthetic** version instead? I can also generate a beautiful header banner using Grok Imagine if you want something even more custom. Just say the word! 🚀
+Just copy and paste the whole thing above into your `README.md`. It will look clean and colorful now!  
+
+Want any tweaks (actual social links, different colors, or a custom Grok Imagine header banner)? Let me know! 🚀
