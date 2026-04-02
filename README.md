@@ -59,3 +59,32 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white&color=FF00AA)
 
 #### Data & AI
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&color=00FF9F)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&color=FF00FF)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&color=00D4FF)
+
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=00FF9F)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=FF00FF)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=00D4FF)
+
+---
+
+### 📊 GITHUB STATS
+
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=AkinwandeFredrick&theme=dracula&hide_border=true&include_all_commits=true&show_icons=true&count_private=false&bg_color=0A0A0A&title_color=FF00FF&text_color=00D4FF&icon_color=00FF9F" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkinwandeFredrick&theme=dracula&hide_border=true&background=0A0A0A&stroke=FF00FF&ring=00FF9F&fire=00D4FF&currStreakNum=FFFFFF" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AkinwandeFredrick&theme=dracula&hide_border=true&layout=compact&hide=jupyter%20notebook&bg_color=0A0A0A&title_color=FF00FF&text_color=00D4FF" alt="Top Languages" />
+
+</div>
+
+---
+
+*✨ Last updated: April 2026*
+
+
+Would you like me to adjust the neon intensity, change any colors, or create a custom header image using Grok Imagine for an even more unique cyberpunk look? Just say the word! ⚡
