@@ -1,19 +1,14 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,5,10,15&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&desc=Fredrick%20Akinwande&fontSize=45&fontColor=ffffff&animation=twinkling&descSize=22" alt="Header" />
-
   <h3>
     <b>Cybersecurity Engineer</b> • <b>Network Architect</b> • <b>Cloud Security Specialist</b>
   </h3>
-
   <p>
     Building secure, resilient, and beautiful digital fortresses — one firewall, one zero-trust policy at a time.
   </p>
-
-  <img src="https://img.shields.io/github/followers/AkinwandeFredrick?style=social&color=FF6B6B" alt="GitHub followers">
+  <img src="https://img.shields.io/github/followers/AkinwandeFredrick?label=Followers&style=social&color=FF6B6B" alt="GitHub followers">
   <img src="https://komarev.com/ghpvc/?username=AkinwandeFredrick&color=00D4FF&style=flat-square&label=Profile%20Views" alt="Profile views">
-
   <br><br>
-
   <a href="https://github.com/AkinwandeFredrick?tab=repositories">
     <img src="https://img.shields.io/badge/Explore%20My%20Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
   </a>
@@ -22,22 +17,18 @@
 ---
 
 ### 🌟 About Me
-
 - **Currently building**: Next-generation Zero-Trust architectures, Cloud-Native security platforms, and automated threat detection systems.
 - **Open to collaborate on**: Open-source security tools, red/blue team projects, network automation, and cutting-edge cybersecurity research.
 - **All projects**: [github.com/AkinwandeFredrick](https://github.com/AkinwandeFredrick?tab=repositories)
 - **Reach me**: akinwandefredrick548@gmail.com
 
 ### ✨ Let's Connect & Create Together
-
 <div align="center">
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=FF6B6B)](https://www.instagram.com/5r3do?igsh=eHlzdTE2amxkcWo2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=4ECDC4)](https://www.linkedin.com/in/fredrick-akinwande-a868a3219/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&color=45B7D1)](https://twitter.com/FredrickAkinwa1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FF9F1C)](mailto:akinwandefredrick548@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2349139069575)
-
 </div>
 
 ---
@@ -72,24 +63,8 @@
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=AkinwandeFredrick&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&count_private=false&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&show=prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkinwandeFredrick&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF9F1C&currStreakNum=FFFFFF" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AkinwandeFredrick&theme=tokyonight&hide_border=true&layout=compact&hide=jupyter%20notebook&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="Top Languages" />
-### 📊 GitHub Stats
-
 <img src="https://github-readme-stats-fast.vercel.app/api?username=AkinwandeFredrick&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&count_private=false&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&show=prs_merged,prs_merged_percentage,total_commits" alt="GitHub Stats" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkinwandeFredrick&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF9F1C&currStreakNum=FFFFFF" alt="GitHub Streak" />
-
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AkinwandeFredrick&theme=tokyonight&hide_border=true&layout=compact&hide=jupyter%20notebook&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="Top Languages" />
-
----
-
 </div>
-
----
