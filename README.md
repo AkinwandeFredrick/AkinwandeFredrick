@@ -23,15 +23,19 @@
 - **Reach me**: akinwandefredrick548@gmail.com
 
 ### ✨ Let's Connect & Create Together
+
 <div align="center">
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=FF6B6B)](https://www.instagram.com/5r3do?igsh=eHlzdTE2amxkcWo2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=4ECDC4)](https://www.linkedin.com/in/fredrick-akinwande-a868a3219/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&color=45B7D1)](https://twitter.com/FredrickAkinwa1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FF9F1C)](mailto:akinwandefredrick548@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2349139069575)
+
 </div>
 
 ---
+
 
 ### 💻 Tech Stack
 
