@@ -3,17 +3,20 @@
 ###     Cybersecurity Engineer • Network Architect • Cloud Security Specialist   
  
   
-&nbsp;    Building secure, resilient, and beautiful digital fortresses — one firewall, one zero-trust policy at a time.   
+     Building secure, resilient, and beautiful digital fortresses — one firewall, one zero-trust policy at a time.   
  
   <img src="https://img.shields.io/github/followers/AkinwandeFredrick?style=social&color=FF6B6B" alt="GitHub followers">   <img src="https://komarev.com/ghpvc/?username=AkinwandeFredrick&color=00D4FF&style=flat-square&label=Profile%20Views" alt="Profile views">
   
        <img src="https://img.shields.io/badge/Explore%20My%20Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Projects">   
 ### 🌟 About Me
 
-**Currently building**: Next-generation Zero-Trust architectures, Cloud-Native security platforms, and automated threat detection systems.
-**Open to collaborate on**: Open-source security tools, red/blue team projects, network automation, and cutting-edge cybersecurity research.
-**All projects**: github.com/AkinwandeFredrick
-**Reach me**: akinwandefredrick548@gmail.com
+* **Currently building**: Next-generation Zero-Trust architectures, Cloud-Native security platforms, and automated threat detection systems.
+
+* **Open to collaborate on**: Open-source security tools, red/blue team projects, network automation, and cutting-edge cybersecurity research.
+
+* **All projects**: github.com/AkinwandeFredrick
+
+* **Reach me**: akinwandefredrick548@gmail.com
 
 ### ✨ Let's Connect & Create Together
 <image-card alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&#x26;logo=instagram&#x26;logoColor=white&#x26;color=FF6B6B"></image-card> <image-card alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&#x26;logo=linkedin&#x26;logoColor=white&#x26;color=4ECDC4"></image-card> <image-card alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&#x26;logo=x&#x26;logoColor=white&#x26;color=45B7D1"></image-card> <image-card alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&#x26;logo=gmail&#x26;logoColor=white&#x26;color=FF9F1C"></image-card> <image-card alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&#x26;logo=whatsapp&#x26;logoColor=white"></image-card>
@@ -29,8 +32,4 @@
 #### Tools & Platforms
 <image-card alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&#x26;logo=git&#x26;logoColor=white&#x26;color=FF9F1C"></image-card> <image-card alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&#x26;logo=github&#x26;logoColor=white&#x26;color=45B7D1"></image-card> <image-card alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&#x26;logo=mysql&#x26;logoColor=white&#x26;color=4ECDC4"></image-card>
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats-fast.vercel.app/api?username=AkinwandeFredrick&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&count_private=false&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&show=prs_merged,prs_merged_percentage,total_commits" alt="GitHub Stats" /> 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkinwandeFredrick&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF9F1C&currStreakNum=FFFFFF" alt="GitHub Streak" /> 
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AkinwandeFredrick&theme=tokyonight&hide_border=true&layout=compact&hide=jupyter%20notebook&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="Top Languages" />
+ <img src="https://github-readme-stats-fast.vercel.app/api?username=AkinwandeFredrick&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&count_private=false&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkinwandeFredrick&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF9F1C&currStreakNum=FFFFFF" alt="GitHub Streak" /> <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AkinwandeFredrick&theme=tokyonight&hide_border=true&layout=compact&hide=jupyter%20notebook&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="Top Languages" />
