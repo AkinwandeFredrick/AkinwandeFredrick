@@ -1,42 +1,33 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,5,10,15&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&desc=Fredrick%20Akinwande&fontSize=45&fontColor=ffffff&animation=twinkling&descSize=22" alt="Header">
-
+<img src="https://capsule-render.vercel.app/api?type=soft&#x26;color=gradient&#x26;customColorList=0,5,10,15&#x26;height=280&#x26;section=header&#x26;text=Hi%20there%20%F0%9F%91%8B&#x26;desc=Fredrick%20Akinwande&#x26;fontSize=45&#x26;fontColor=ffffff&#x26;animation=twinkling&#x26;descSize=22" alt="Header">
+  
 ###     Cybersecurity Engineer • Network Architect • Cloud Security Specialist   
  
   
-     Building secure, resilient, and beautiful digital fortresses — one firewall, one zero-trust policy at a time.   
+&nbsp;    Building secure, resilient, and beautiful digital fortresses — one firewall, one zero-trust policy at a time.   
  
   <img src="https://img.shields.io/github/followers/AkinwandeFredrick?style=social&color=FF6B6B" alt="GitHub followers">   <img src="https://komarev.com/ghpvc/?username=AkinwandeFredrick&color=00D4FF&style=flat-square&label=Profile%20Views" alt="Profile views">
   
        <img src="https://img.shields.io/badge/Explore%20My%20Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Projects">   
 ### 🌟 About Me
 
-* **Currently building**: Next-generation Zero-Trust architectures, Cloud-Native security platforms, and automated threat detection systems.
-
-* **Open to collaborate on**: Open-source security tools, red/blue team projects, network automation, and cutting-edge cybersecurity research.
-
-* **All projects**: github.com/AkinwandeFredrick
-
-* **Reach me**: akinwandefredrick548@gmail.com
+**Currently building**: Next-generation Zero-Trust architectures, Cloud-Native security platforms, and automated threat detection systems.
+**Open to collaborate on**: Open-source security tools, red/blue team projects, network automation, and cutting-edge cybersecurity research.
+**All projects**: github.com/AkinwandeFredrick
+**Reach me**: akinwandefredrick548@gmail.com
 
 ### ✨ Let's Connect & Create Together
-<image-card alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=FF6B6B"></image-card> <image-card alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=4ECDC4"></image-card> <image-card alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&color=45B7D1"></image-card> <image-card alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FF9F1C"></image-card> <image-card alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></image-card>
-
+<image-card alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&#x26;logo=instagram&#x26;logoColor=white&#x26;color=FF6B6B"></image-card> <image-card alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&#x26;logo=linkedin&#x26;logoColor=white&#x26;color=4ECDC4"></image-card> <image-card alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&#x26;logo=x&#x26;logoColor=white&#x26;color=45B7D1"></image-card> <image-card alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&#x26;logo=gmail&#x26;logoColor=white&#x26;color=FF9F1C"></image-card> <image-card alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&#x26;logo=whatsapp&#x26;logoColor=white"></image-card>
 ### 💻 Tech Stack
 #### Languages & Scripting
-<image-card alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=FF6B6B"></image-card> <image-card alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&color=4ECDC4"></image-card> <image-card alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&color=45B7D1"></image-card>
-
+<image-card alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&#x26;logo=python&#x26;logoColor=white&#x26;color=FF6B6B"></image-card> <image-card alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&#x26;logo=powershell&#x26;logoColor=white&#x26;color=4ECDC4"></image-card> <image-card alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&#x26;logo=gnubash&#x26;logoColor=white&#x26;color=45B7D1"></image-card>
 #### Cloud & DevOps
-<image-card alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&color=FF6B6B"></image-card> <image-card alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&color=4ECDC4"></image-card> <image-card alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=45B7D1"></image-card>
-
+<image-card alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&#x26;logo=amazon-aws&#x26;logoColor=white&#x26;color=FF6B6B"></image-card> <image-card alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&#x26;logo=google-cloud&#x26;logoColor=white&#x26;color=4ECDC4"></image-card> <image-card alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&#x26;logo=docker&#x26;logoColor=white&#x26;color=45B7D1"></image-card>
 #### Networking & Security
-<image-card alt="Cisco" src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white&color=FF9F1C"></image-card> <image-card alt="Ubiquiti" src="https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white&color=FF6B6B"></image-card> <image-card alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white&color=4ECDC4"></image-card>
-
+<image-card alt="Cisco" src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&#x26;logo=cisco&#x26;logoColor=white&#x26;color=FF9F1C"></image-card> <image-card alt="Ubiquiti" src="https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&#x26;logo=ubiquiti&#x26;logoColor=white&#x26;color=FF6B6B"></image-card> <image-card alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&#x26;logo=raspberrypi&#x26;logoColor=white&#x26;color=4ECDC4"></image-card>
 #### Data & AI
-<image-card alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&color=45B7D1"></image-card> <image-card alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&color=FF6B6B"></image-card> <image-card alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&color=4ECDC4"></image-card>
-
+<image-card alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&#x26;logo=pandas&#x26;logoColor=white&#x26;color=45B7D1"></image-card> <image-card alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&#x26;logo=tensorflow&#x26;logoColor=white&#x26;color=FF6B6B"></image-card> <image-card alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&#x26;logo=pytorch&#x26;logoColor=white&#x26;color=4ECDC4"></image-card>
 #### Tools & Platforms
-<image-card alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=FF9F1C"></image-card> <image-card alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=45B7D1"></image-card> <image-card alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=4ECDC4"></image-card>
-
+<image-card alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&#x26;logo=git&#x26;logoColor=white&#x26;color=FF9F1C"></image-card> <image-card alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&#x26;logo=github&#x26;logoColor=white&#x26;color=45B7D1"></image-card> <image-card alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&#x26;logo=mysql&#x26;logoColor=white&#x26;color=4ECDC4"></image-card>
 ### 📊 GitHub Stats
 <img src="https://github-readme-stats-fast.vercel.app/api?username=AkinwandeFredrick&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&count_private=false&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&show=prs_merged,prs_merged_percentage,total_commits" alt="GitHub Stats" /> 
 
