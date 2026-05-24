@@ -68,8 +68,12 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=AkinwandeFredrick&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&count_private=false&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&show=prs_merged,prs_merged_percentage,total_commits" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkinwandeFredrick&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF9F1C&currStreakNum=FFFFFF" alt="GitHub Streak" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AkinwandeFredrick&theme=tokyonight&hide_border=true&layout=compact&hide=jupyter%20notebook&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=AkinwandeFredrick&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&count_private=false&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4" alt="GitHub Stats" />
+
+<img src="https://streak-stats.demolab.com/?user=AkinwandeFredrick&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF9F1C&currStreakNum=FFFFFF" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkinwandeFredrick&theme=tokyonight&hide_border=true&layout=compact&hide=jupyter%20notebook&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="Top Languages" />
+
 </div>
 
