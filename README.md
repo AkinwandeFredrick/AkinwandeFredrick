@@ -16,13 +16,13 @@
 
 ---
 
-### 🌟 About Me
+###  About Me
 - **Currently building**: Next-generation Zero-Trust architectures, Cloud-Native security platforms, and automated threat detection systems.
 - **Open to collaborate on**: Open-source security tools, red/blue team projects, network automation, and cutting-edge cybersecurity research.
 - **All projects**: [github.com/AkinwandeFredrick](https://github.com/AkinwandeFredrick?tab=repositories)
 - **Reach me**: akinwandefredrick548@gmail.com
 
-### ✨ Let's Connect & Create Together
+### Let's Connect & Create Together
 
 <div align="center">
 
@@ -37,7 +37,7 @@
 ---
 
 
-### 💻 Tech Stack
+###  Tech Stack
 
 #### Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=FF6B6B)
