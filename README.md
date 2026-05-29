@@ -36,6 +36,39 @@
 
 ---
 
+### 🕐 Last Updated
+
+<!-- START:LAST_UPDATED -->
+![Last Updated](https://img.shields.io/badge/Last%20Updated-fetching...-brightgreen?style=flat-square)
+<!-- END:LAST_UPDATED -->
+
+---
+
+### 📈 Live Stats
+
+<!-- START:STATS -->
+![Repos](https://img.shields.io/badge/Public%20Repos-0-FF6B6B?style=flat-square) ![Followers](https://img.shields.io/badge/Followers-0-4ECDC4?style=flat-square) ![Following](https://img.shields.io/badge/Following-0-45B7D1?style=flat-square)
+<!-- END:STATS -->
+
+---
+
+### 🚀 Latest Repositories
+
+<!-- START:LATEST_REPOS -->
+| Repository | Description | Language | Stars | Forks |
+|------------|-------------|----------|-------|-------|
+| — | — | — | — | — |
+<!-- END:LATEST_REPOS -->
+
+---
+
+### ⚡ Recent Activity
+
+<!-- START:RECENT_ACTIVITY -->
+- Loading recent activity…
+<!-- END:RECENT_ACTIVITY -->
+
+---
 
 ###  Tech Stack
 
