@@ -39,7 +39,7 @@
 ### 🕐 Last Updated
 
 <!-- START:LAST_UPDATED -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-05-29%2021%3A27%20UTC-brightgreen?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-fetching...-brightgreen?style=flat-square)
 <!-- END:LAST_UPDATED -->
 
 ---
@@ -47,7 +47,7 @@
 ### 📈 Live Stats
 
 <!-- START:STATS -->
-![Repos](https://img.shields.io/badge/Public%20Repos-16-FF6B6B?style=flat-square) ![Followers](https://img.shields.io/badge/Followers-6-4ECDC4?style=flat-square) ![Following](https://img.shields.io/badge/Following-10-45B7D1?style=flat-square)
+![Repos](https://img.shields.io/badge/Public%20Repos-0-FF6B6B?style=flat-square) ![Followers](https://img.shields.io/badge/Followers-0-4ECDC4?style=flat-square) ![Following](https://img.shields.io/badge/Following-0-45B7D1?style=flat-square)
 <!-- END:STATS -->
 
 ---
@@ -57,11 +57,7 @@
 <!-- START:LATEST_REPOS -->
 | Repository | Description | Language | Stars | Forks |
 |------------|-------------|----------|-------|-------|
-| [AkinwandeFredrick](https://github.com/AkinwandeFredrick/AkinwandeFredrick) | Config files for my GitHub profile. | Python | ⭐ 2 | 🍴 0 |
-| [heart-attack-risk-prediction](https://github.com/AkinwandeFredrick/heart-attack-risk-prediction) | Development of machine learning models for the prediction of cardiovascular disease  | Jupyter Notebook | ⭐ 0 | 🍴 0 |
-| [gohole](https://github.com/AkinwandeFredrick/gohole) | Pi-hole-style DNS sinkhole in Go. Blocks ads, trackers & malware domains with a live web-dashboard. | Go | ⭐ 0 | 🍴 0 |
-| [SSH-GUARD](https://github.com/AkinwandeFredrick/SSH-GUARD) | A real SSH-Brute force detector | Python | ⭐ 0 | 🍴 0 |
-| [go](https://github.com/AkinwandeFredrick/go) | No description | N/A | ⭐ 0 | 🍴 0 |
+| — | — | — | — | — |
 <!-- END:LATEST_REPOS -->
 
 ---
@@ -69,11 +65,7 @@
 ### ⚡ Recent Activity
 
 <!-- START:RECENT_ACTIVITY -->
-- 🔨 Pushed to [AkinwandeFredrick/AkinwandeFredrick](https://github.com/AkinwandeFredrick/AkinwandeFredrick)
-- 🌱 Created [AkinwandeFredrick/heart-attack-risk-prediction](https://github.com/AkinwandeFredrick/heart-attack-risk-prediction)
-- 🔨 Pushed to [AkinwandeFredrick/gohole](https://github.com/AkinwandeFredrick/gohole)
-- 🔀 Opened PR in [AkinwandeFredrick/gohole](https://github.com/AkinwandeFredrick/gohole)
-- 🌱 Created [AkinwandeFredrick/gohole](https://github.com/AkinwandeFredrick/gohole)
+- Loading recent activity…
 <!-- END:RECENT_ACTIVITY -->
 
 ---
@@ -108,12 +100,14 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
 
-<img src="https://github-readme-stats-seven-alpha-87.vercel.app/api?username=AkinwandeFredrick&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&count_private=false&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4" alt="GitHub Stats" />
-
-<img src="https://streak-stats.demolab.com/?user=AkinwandeFredrick&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF9F1C&currStreakNum=FFFFFF" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats-seven-alpha-87.vercel.app/api/top-langs/?username=AkinwandeFredrick&theme=tokyonight&hide_border=true&layout=compact&hide=jupyter%20notebook&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="Top Languages" />
-
-</div>
+<!-- START:GITHUB_STATS -->
+| Metric | Count |
+|--------|-------|
+| ⭐ Total Stars Earned | 0 |
+| 🔨 Recent Commits | 0 |
+| 🔀 Total PRs | 0 |
+| 🐛 Total Issues | 0 |
+| 📁 Public Repos | 0 |
+| 🍴 Total Forks Received | 0 |
+<!-- END:GITHUB_STATS -->
