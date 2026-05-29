@@ -36,10 +36,10 @@
 
 ---
 
-<!-- ### 🕐 Last Updated
+### 🕐 Last Updated
 
-START:LAST_UPDATED 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-05-29%2021%3A27%20UTC-brightgreen?style=flat-square)-->
+<!-- START:LAST_UPDATED -->
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-05-29%2021%3A27%20UTC-brightgreen?style=flat-square)
 <!-- END:LAST_UPDATED -->
 
 ---
@@ -110,12 +110,10 @@ START:LAST_UPDATED
 ### 📊 GitHub Stats
 <div align="center">
 
-### 📊 GitHub Stats
-<div align="center">
+<img src="https://github-readme-stats-seven-alpha-87.vercel.app/api?username=AkinwandeFredrick&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&count_private=false&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4" alt="GitHub Stats" />
 
-<!-- START:GITHUB_STATS -->
-<!-- END:GITHUB_STATS -->
+<img src="https://streak-stats.demolab.com/?user=AkinwandeFredrick&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF9F1C&currStreakNum=FFFFFF" alt="GitHub Streak" />
 
-</div>
+<img src="https://github-readme-stats-seven-alpha-87.vercel.app/api/top-langs/?username=AkinwandeFredrick&theme=tokyonight&hide_border=true&layout=compact&hide=jupyter%20notebook&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="Top Languages" />
 
 </div>
