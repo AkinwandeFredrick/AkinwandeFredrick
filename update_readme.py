@@ -75,14 +75,14 @@ def fetch_recent_activity(n: int = 5) -> list[str]:
     )
     lines = []
     type_map = {
-        "PushEvent":        " Pushed to",
-        "CreateEvent":      " Created",
-        "PullRequestEvent": " Opened PR in",
-        "IssuesEvent":      " Opened issue in",
-        "WatchEvent":       " Starred",
-        "ForkEvent":        " Forked",
-        "ReleaseEvent":     " Released",
-        "DeleteEvent":      " Deleted branch/tag in",
+        "PushEvent":        "🔨 Pushed to",
+        "CreateEvent":      "🌱 Created",
+        "PullRequestEvent": "🔀 Opened PR in",
+        "IssuesEvent":      "🐛 Opened issue in",
+        "WatchEvent":       "⭐ Starred",
+        "ForkEvent":        "🍴 Forked",
+        "ReleaseEvent":     "🚀 Released",
+        "DeleteEvent":      "🗑️ Deleted branch/tag in",
     }
     seen = set()
     for e in events:
@@ -126,10 +126,9 @@ def build_activity_section(activity: list[str]) -> str:
 
 
 def build_last_updated_section() -> str:
-    # shields.io uses '-' as a delimiter, so we avoid dashes in the date value
-    now = datetime.now(timezone.utc).strftime("%d %b %Y %H%MZ")
-    value = now.replace(" ", "%20")
-    return f"![Last Updated](https://img.shields.io/badge/Last%20Updated-{value}-brightgreen?style=flat-square)"
+    # Plain HTML timestamp — no external service, never breaks
+    now = datetime.now(timezone.utc).strftime("%d %b %Y at %H:%M UTC")
+    return f'<sub>🕐 Last updated: <b>{now}</b></sub>'
 
 
 # ─── Main ────────────────────────────────────────────────────────────────────
