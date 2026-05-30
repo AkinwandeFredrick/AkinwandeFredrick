@@ -66,11 +66,11 @@
 ###  Recent Activity
 
 <!-- START:RECENT_ACTIVITY -->
--  Pushed to [AkinwandeFredrick/AkinwandeFredrick](https://github.com)
--  Created [AkinwandeFredrick/heart-attack-risk-prediction](https://github.com)
--  Pushed to [AkinwandeFredrick/gohole](https://github.com)
--  Opened PR in [AkinwandeFredrick/gohole](https://github.com)
--  Created [AkinwandeFredrick/gohole](https://github.com)
+- 🔨 Pushed to [AkinwandeFredrick/AkinwandeFredrick](https://github.com/AkinwandeFredrick/AkinwandeFredrick)
+- 🌱 Created [AkinwandeFredrick/heart-attack-risk-prediction](https://github.com/AkinwandeFredrick/heart-attack-risk-prediction)
+- 🔨 Pushed to [AkinwandeFredrick/gohole](https://github.com/AkinwandeFredrick/gohole)
+- 🔀 Opened PR in [AkinwandeFredrick/gohole](https://github.com/AkinwandeFredrick/gohole)
+- 🌱 Created [AkinwandeFredrick/gohole](https://github.com/AkinwandeFredrick/gohole)
 <!-- END:RECENT_ACTIVITY -->
 
 ---
