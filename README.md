@@ -57,8 +57,8 @@
 <!-- START:LATEST_REPOS -->
 | Repository | Description | Language | Stars | Forks |
 |------------|-------------|----------|-------|-------|
-| [EC2-TELEGRAM-BOT](https://github.com/AkinwandeFredrick/EC2-TELEGRAM-BOT) | Telegram AI bot powered by Groq and Pollinations AI | Python | ⭐ 0 | 🍴 0 |
 | [AkinwandeFredrick](https://github.com/AkinwandeFredrick/AkinwandeFredrick) | Config files for my GitHub profile. | Python | ⭐ 2 | 🍴 0 |
+| [EC2-TELEGRAM-BOT](https://github.com/AkinwandeFredrick/EC2-TELEGRAM-BOT) | Telegram AI bot powered by Groq and Pollinations AI | Python | ⭐ 0 | 🍴 0 |
 | [API-Monitor](https://github.com/AkinwandeFredrick/API-Monitor) | The API Uptime Monitor is a Python script that tracks the availability ofAPI endpoints, logging their status every 10 minutes. It checks  public APIs, handles DNS failures with retries, and records results while displaying real-time updates in the console. Ideal for monitoring API health.  | Python | ⭐ 1 | 🍴 1 |
 | [heart-attack-risk-prediction](https://github.com/AkinwandeFredrick/heart-attack-risk-prediction) | Development of machine learning models for the prediction of cardiovascular disease  | Jupyter Notebook | ⭐ 0 | 🍴 0 |
 | [gohole](https://github.com/AkinwandeFredrick/gohole) | Pi-hole-style DNS sinkhole in Go. Blocks ads, trackers & malware domains with a live web-dashboard. | Go | ⭐ 0 | 🍴 0 |
