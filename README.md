@@ -73,7 +73,6 @@
 - 🔨 Pushed to [AkinwandeFredrick/EC2-TELEGRAM-BOT](https://github.com/AkinwandeFredrick/EC2-TELEGRAM-BOT)
 - 🌱 Created [AkinwandeFredrick/EC2-TELEGRAM-BOT](https://github.com/AkinwandeFredrick/EC2-TELEGRAM-BOT)
 - 🔨 Pushed to [AkinwandeFredrick/AkinwandeFredrick](https://github.com/AkinwandeFredrick/AkinwandeFredrick)
-- 🔨 Pushed to [AkinwandeFredrick/API-Monitor](https://github.com/AkinwandeFredrick/API-Monitor)
 <!-- END:RECENT_ACTIVITY -->
 
 ---
