@@ -69,10 +69,10 @@
 ###  Recent Activity
 
 <!-- START:RECENT_ACTIVITY -->
+- ⭐ Starred [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS)
 - 🔀 Opened PR in [AkinwandeFredrick/EC2-TELEGRAM-BOT](https://github.com/AkinwandeFredrick/EC2-TELEGRAM-BOT)
 - 🔨 Pushed to [AkinwandeFredrick/EC2-TELEGRAM-BOT](https://github.com/AkinwandeFredrick/EC2-TELEGRAM-BOT)
 - 🌱 Created [AkinwandeFredrick/EC2-TELEGRAM-BOT](https://github.com/AkinwandeFredrick/EC2-TELEGRAM-BOT)
-- 🔨 Pushed to [AkinwandeFredrick/AkinwandeFredrick](https://github.com/AkinwandeFredrick/AkinwandeFredrick)
 <!-- END:RECENT_ACTIVITY -->
 
 ---
