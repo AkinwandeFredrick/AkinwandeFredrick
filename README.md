@@ -47,7 +47,7 @@
 ###  Live Stats
 
 <!-- START:STATS -->
-![Repos](https://img.shields.io/badge/Public%20Repos-16-FF6B6B?style=flat-square) ![Followers](https://img.shields.io/badge/Followers-6-4ECDC4?style=flat-square) ![Following](https://img.shields.io/badge/Following-11-45B7D1?style=flat-square)
+![Repos](https://img.shields.io/badge/Public%20Repos-16-FF6B6B?style=flat-square) ![Followers](https://img.shields.io/badge/Followers-6-4ECDC4?style=flat-square) ![Following](https://img.shields.io/badge/Following-12-45B7D1?style=flat-square)
 <!-- END:STATS -->
 
 ---
