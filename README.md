@@ -69,7 +69,7 @@
 ###  Recent Activity
 
 <!-- START:RECENT_ACTIVITY -->
-- ⭐ Starred [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS)
+
 <!-- END:RECENT_ACTIVITY -->
 
 ---
