@@ -131,29 +131,7 @@ I design and build secure, resilient infrastructure — from zero-trust architec
 ### GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkinwandeFredrick&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkinwandeFredrick&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkinwandeFredrick&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-### Fun Extras
-
-<div align="center">
-  <!-- Random Dev Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-  
-  <br/><br/>
-  
-  <!-- Contribution Snake (optional - needs GitHub Action setup) -->
-  <!-- Uncomment after setting up the snake action -->
-  <!-- <img src="https://raw.githubusercontent.com/AkinwandeFredrick/AkinwandeFredrick/output/github-contribution-grid-snake-dark.svg" alt="Snake" /> -->
 </div>
 
 ---
