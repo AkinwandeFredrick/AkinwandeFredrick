@@ -1,115 +1,173 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,5,10,15&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&desc=Fredrick%20Akinwande&fontSize=45&fontColor=ffffff&animation=twinkling&descSize=22" alt="Header" />
-  <h3>
-    <b>Cybersecurity Engineer</b> • <b>Network Architect</b> • <b>Cloud Security Specialist</b>
-  </h3>
-  <p>
-    Building secure, resilient, and beautiful digital fortresses — one firewall, one zero-trust policy at a time.
-  </p>
-  <img src="https://img.shields.io/github/followers/AkinwandeFredrick?label=Followers&style=social&color=FF6B6B" alt="GitHub followers">
-  <img src="https://komarev.com/ghpvc/?username=AkinwandeFredrick&color=00D4FF&style=flat-square&label=Profile%20Views" alt="Profile views">
-  <br><br>
-  <a href="https://github.com/AkinwandeFredrick?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
+  
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=180&section=header&text=Akinwande%20Fredrick&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
+
+  <!-- Typing Animation -->
+  <a href="https://github.com/AkinwandeFredrick">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Cybersecurity+Engineer;Network+Architect;Cloud+Security+Specialist;Building+Zero-Trust+Systems;Python+%7C+Go+%7C+AWS+%7C+Networking" alt="Typing SVG" />
   </a>
-</div>
 
----
+  <br/><br/>
 
-###  About Me
-- **Currently building**: Next-generation Zero-Trust architectures, Cloud-Native security platforms, and automated threat detection systems.
-- **Open to collaborate on**: Open-source security tools, red/blue team projects, network automation, and cutting-edge cybersecurity research.
-- **All projects**: [github.com/AkinwandeFredrick](https://github.com/AkinwandeFredrick?tab=repositories)
-- **Reach me**: akinwandefredrick548@gmail.com
-
-### Let's Connect & Create Together
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=FF6B6B)](https://www.instagram.com/5r3do?igsh=eHlzdTE2amxkcWo2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=4ECDC4)](https://www.linkedin.com/in/fredrick-akinwande-a868a3219/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&color=45B7D1)](https://twitter.com/FredrickAkinwa1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FF9F1C)](mailto:akinwandefredrick548@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2349139069575)
+  <!-- Profile Views + Social Badges -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=AkinwandeFredrick&label=Profile%20views&color=0ea5e9&style=flat" alt="Profile views" />
+    &nbsp;
+    <a href="https://twitter.com/FredrickAkinwa1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/fredrick-akinwande-a868a3219/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:akinwandefredrick548@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://wa.me/2349139069575"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  </p>
 
 </div>
 
 ---
 
-<!--###  Last Updated
+### About Me
 
- START:LAST_UPDATED -->
-<!--![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-05-29%2021%3A27%20UTC-brightgreen?style=flat-square)
- END:LAST_UPDATED -->
+Cybersecurity enthusiast and network architect based in **Lagos**.  
+I design and build secure, resilient infrastructure — from zero-trust architectures and honeypots to cloud-native security platforms and network automation tools.
 
----
-
-###  Live Stats
-
-<!-- START:STATS -->
-![Repos](https://img.shields.io/badge/Public%20Repos-16-FF6B6B?style=flat-square) ![Followers](https://img.shields.io/badge/Followers-6-4ECDC4?style=flat-square) ![Following](https://img.shields.io/badge/Following-12-45B7D1?style=flat-square)
-<!-- END:STATS -->
+- Currently deep-diving into **Zero-Trust**, **Cloud Security (AWS)**, **Threat Detection**, and **Network Automation**
+- Passionate about turning complex security concepts into practical, production-ready systems
+- Always open to collaboration on open-source security tools, red/blue team labs, and interesting networking challenges
 
 ---
 
-###  Latest Repositories
+### Tech Stack
 
-<!-- START:LATEST_REPOS -->
-| Repository | Description | Language | Stars | Forks |
-|------------|-------------|----------|-------|-------|
-| [AkinwandeFredrick](https://github.com/AkinwandeFredrick/AkinwandeFredrick) | Config files for my GitHub profile. | Python | ⭐ 2 | 🍴 0 |
-| [EC2-TELEGRAM-BOT](https://github.com/AkinwandeFredrick/EC2-TELEGRAM-BOT) | Telegram AI bot powered by Groq and Pollinations AI | Python | ⭐ 0 | 🍴 0 |
-| [API-Monitor](https://github.com/AkinwandeFredrick/API-Monitor) | The API Uptime Monitor is a Python script that tracks the availability ofAPI endpoints, logging their status every 10 minutes. It checks  public APIs, handles DNS failures with retries, and records results while displaying real-time updates in the console. Ideal for monitoring API health.  | Python | ⭐ 1 | 🍴 1 |
-| [heart-attack-risk-prediction](https://github.com/AkinwandeFredrick/heart-attack-risk-prediction) | Development of machine learning models for the prediction of cardiovascular disease  | Jupyter Notebook | ⭐ 0 | 🍴 0 |
-| [gohole](https://github.com/AkinwandeFredrick/gohole) | Pi-hole-style DNS sinkhole in Go. Blocks ads, trackers & malware domains with a live web-dashboard. | Go | ⭐ 0 | 🍴 0 |
-<!-- END:LATEST_REPOS -->
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+#### Cybersecurity & Networking
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-1A1A1A?style=for-the-badge&logo=nmap&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-###  Recent Activity
-
-<!-- START:RECENT_ACTIVITY -->
-
-<!-- END:RECENT_ACTIVITY -->
-
----
-
-###  Tech Stack
-
-#### Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=FF6B6B)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&color=4ECDC4)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&color=45B7D1)
-
-#### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&color=FF6B6B)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&color=4ECDC4)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=45B7D1)
-
-#### Networking & Security
-![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white&color=FF9F1C)
-![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white&color=FF6B6B)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white&color=4ECDC4)
-
-#### Data & AI
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&color=45B7D1)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&color=FF6B6B)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&color=4ECDC4)
+#### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 #### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=FF9F1C)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=45B7D1)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=4ECDC4)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-###  GitHub Stats
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/AkinwandeFredrick/gohole">gohole</a></h3>
+      <p>Pi-hole-style DNS sinkhole written in <b>Go</b>. Blocks ads, trackers & malware domains with a live web dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+        <img src="https://img.shields.io/badge/DNS-Networking-blue?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Cybersecurity-red?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/AkinwandeFredrick/SSH-GUARD">SSH-GUARD</a></h3>
+      <p>Real-time SSH brute-force detector written in Python. Monitors logs and alerts on suspicious login attempts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Security-red?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/AkinwandeFredrick/Cowrie-SSH-Honeypot-Deployment-Testing">Cowrie SSH Honeypot</a></h3>
+      <p>Full Cowrie honeypot deployment on VMware + comprehensive Nmap recon testing and incident documentation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Honeypot-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Nmap-1A1A1A?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/AkinwandeFredrick/Active-Directory-Lab-Setup-Windows-Server-2022">Active Directory Lab</a></h3>
+      <p>Hands-on enterprise AD lab using Windows Server 2022 + VMware. Domain Controller, users, groups, GPOs & more.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Active%20Directory-blue?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/AkinwandeFredrick/PrestaShop-9.1-Deployment-on-AWS-EC2-RDS-">PrestaShop on AWS</a></h3>
+      <p>Production-ready e-commerce deployment on AWS Free Tier (EC2 + RDS MySQL) with proper separation of concerns.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/EC2-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/RDS-blue?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/AkinwandeFredrick/API-Monitor">API Uptime Monitor</a></h3>
+      <p>Python script that continuously monitors API endpoints, handles DNS failures with retries, and logs status every 10 minutes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Monitoring-green?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### GitHub Stats
+
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkinwandeFredrick&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkinwandeFredrick&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
 
-<img src="https://github-readme-stats-seven-alpha-87.vercel.app/api?username=AkinwandeFredrick&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&count_private=false&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4" alt="GitHub Stats" />
+<br/>
 
-<img src="https://streak-stats.demolab.com/?user=AkinwandeFredrick&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF9F1C&currStreakNum=FFFFFF" alt="GitHub Streak" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkinwandeFredrick&theme=tokyonight&hide_border=true" />
+</div>
 
-<img src="https://github-readme-stats-seven-alpha-87.vercel.app/api/top-langs/?username=AkinwandeFredrick&theme=tokyonight&hide_border=true&layout=compact&hide=jupyter%20notebook&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="Top Languages" />
+---
 
+### Fun Extras
+
+<div align="center">
+  <!-- Random Dev Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  
+  <br/><br/>
+  
+  <!-- Contribution Snake (optional - needs GitHub Action setup) -->
+  <!-- Uncomment after setting up the snake action -->
+  <!-- <img src="https://raw.githubusercontent.com/AkinwandeFredrick/AkinwandeFredrick/output/github-contribution-grid-snake-dark.svg" alt="Snake" /> -->
+</div>
+
+---
+
+<div align="center">
+  
+  ### Let's connect and build something secure together
+  
+  <a href="mailto:akinwandefredrick548@gmail.com">
+    <img src="https://img.shields.io/badge/Say%20Hello-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <br/><br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=100&section=footer" width="100%"/>
+  
 </div>
